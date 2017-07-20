@@ -1,0 +1,15 @@
+.App {
+    margin: 10px;
+}
+
+.card {
+    margin: 5px;
+    padding: 15px;
+}
+
+.form {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 5px;
+}
